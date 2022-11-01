@@ -14,3 +14,4 @@ def th(arr, threshold, width):
     for i in range(len(b)):
         if b[i] == 1:
             l.append(i)
+    return (l)
