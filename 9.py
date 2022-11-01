@@ -34,5 +34,3 @@ def dtframe(fileCsv):
 
     a['max'] = max(a['sum'])
     return (a)
-
-print(dtframe('use.csv'))
